@@ -1,8 +1,16 @@
 # Instance Setup
 ## Master
-[ ] Install Fedora Server
-[ ] SSH with keys only
-[ ] 
+[x] Install Fedora Server
+[x] SSH
+[x] K8 / etcd
+[ ] K8 Visualizations / Dashboards
+[ ] DNS
+[ ] K8 Ingress
+[ ] Service Discovery
+[ ] CI / CD
+[ ] Logging
+[ ] Metrics / StatsD
+[ ] NFS
 
 ## Node
 
